@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DataCruncherCameron aka Cam McLaren 
-- 👀 I’m interested in Cloud Native Devlopment and Infrastructure as Code. 
-- 🌱 I’m currently learning Terraform for AWS, Python, and a little bit about containers. 
-- 💞️ I’m looking to collaborate on anything a little bit mathsy. Love maths. 
+- 👋 Hi, I’m Cam
+- 👀 Interested in working on Python OOP projects and C projects. 
+- 🌱 I'm currently learning about REST APIs and OOP in Python
+- 💞️ I’m looking to collaborate on anything a little bit mathsy. 
 - 📫 How to reach me? EMAIL! datacrunchercameron@gmail.com 
 
 <!---
